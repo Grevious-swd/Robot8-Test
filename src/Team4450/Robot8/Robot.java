@@ -3,6 +3,8 @@
 // functionality other than adding support for xbox controller and
 // demonstration code for gyro and internal accelerometer.
 
+// Test version for git training.
+
 package Team4450.Robot8;
 
 import java.io.IOException;
@@ -29,7 +31,7 @@ import edu.wpi.first.wpilibj.PowerDistributionPanel;
  */
 public class Robot extends SampleRobot 
 {
-  static final String  	PROGRAM_NAME = "RAC8-11.05.15-01";
+  static final String  	PROGRAM_NAME = "RAC8T-11.18.15-01";
 
   // robotdrive(front-left, rear-left, front-right, rear-right)
   final RobotDrive      robotDrive = new RobotDrive(0,1,2,3);
