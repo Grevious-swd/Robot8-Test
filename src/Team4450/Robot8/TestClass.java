@@ -7,7 +7,7 @@ public class TestClass
 {
 	private	String	s1;
 	
-	void TestClass(String s)
+	TestClass(String s)
 	{
 		Util.consoleLog();
 		LCD.clearAll();
