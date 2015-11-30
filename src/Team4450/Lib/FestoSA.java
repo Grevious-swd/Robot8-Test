@@ -10,6 +10,7 @@ import edu.wpi.first.wpilibj.Solenoid;
  * is turned off and the spring closes the valve.
  */
 
+
 public class FestoSA
 {
 	private final Solenoid valveOpenSide;

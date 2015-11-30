@@ -3,12 +3,7 @@ package Team4450.Robot8;
 
 import java.lang.Math;
 
-import Team4450.Lib.CameraFeed;
-import Team4450.Lib.GamePad;
-import Team4450.Lib.JoyStick;
-import Team4450.Lib.LCD;
-import Team4450.Lib.LaunchPad;
-import Team4450.Lib.Util;
+import Team4450.Lib.*;
 import Team4450.Lib.GamePad.*;
 import Team4450.Lib.JoyStick.*;
 import Team4450.Lib.LaunchPad.*;
