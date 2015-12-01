@@ -2,6 +2,7 @@
 // Cleaned up and reorganized in preparation for 2016. No changes to
 // functionality other than adding support for xbox controller and
 // demonstration code for gyro and internal accelerometer.
+// For Robot "Tiberius" built for FRC game Recycle Rush.
 
 // Test version for git training.
 
